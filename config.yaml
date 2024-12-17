@@ -1,0 +1,9 @@
+aliyun:
+  access_key_id: "LTAxxxxxxxx"
+  access_key_secret: "KYxxxxxxxxxx"
+  endpoint: "xxxxxxxx"
+  tts_code: "xxxxxxxx"
+contact:
+  ops: "153xxxxxxxx"
+  gpu: "182xxxxxxxx"
+
